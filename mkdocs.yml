@@ -1,0 +1,19 @@
+site_name: Battle Transcript Toolkit
+site_description: Tools for parsing and analyzing match transcripts
+site_url: https://vindicta-platform.github.io/Battle-Transcript-Toolkit/
+
+repo_name: vindicta-platform/Battle-Transcript-Toolkit
+repo_url: https://github.com/vindicta-platform/Battle-Transcript-Toolkit
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: pink
+      accent: purple
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Contributing: contributing.md
+plugins:
+  - search
