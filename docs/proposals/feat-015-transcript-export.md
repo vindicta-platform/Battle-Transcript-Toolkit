@@ -1,10 +1,10 @@
 # Feature Proposal: Battle Transcript Export
 
-**Proposal ID**: FEAT-015  
-**Author**: Unified Product Architect (Autonomous)  
-**Created**: 2026-02-01  
-**Status**: Draft  
-**Priority**: Medium  
+**Proposal ID**: FEAT-015
+**Author**: Unified Product Architect (Autonomous)
+**Created**: 2026-02-01
+**Status**: Draft
+**Priority**: Medium
 
 ---
 
@@ -74,8 +74,8 @@ Battle-Transcript-Toolkit/
 
 ```markdown
 # Battle Report: {{player1.name}} vs {{player2.name}}
-**Date**: {{date}}  
-**Mission**: {{mission.name}}  
+**Date**: {{date}}
+**Mission**: {{mission.name}}
 **Points**: {{points_limit}}
 
 ## Armies
@@ -105,18 +105,18 @@ Battle-Transcript-Toolkit/
 ### User Stories
 
 #### US-001: Blog Export
-**As a** content creator  
-**I want to** export battles as Markdown  
+**As a** content creator
+**I want to** export battles as Markdown
 **So that** I can publish battle reports on my blog
 
 #### US-002: Tournament Archive
-**As a** tournament organizer  
-**I want** PDF exports of all games  
+**As a** tournament organizer
+**I want** PDF exports of all games
 **So that** I can archive the event
 
 #### US-003: Data Analysis
-**As a** competitive player  
-**I want** JSON exports  
+**As a** competitive player
+**I want** JSON exports
 **So that** I can analyze my games statistically
 
 ### Acceptance Criteria
